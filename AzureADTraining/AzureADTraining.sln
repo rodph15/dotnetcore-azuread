@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32516.85
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureADTraining", "AzureADTraining\AzureADTraining.csproj", "{4339B5C7-02DA-439F-9FA7-69978CFC8F5D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureADTraining.MVC", "AzureADTraining.MVC\AzureADTraining.MVC.csproj", "{45BF3EFA-FC5D-4AC4-ADCC-CE1E28399A5A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4339B5C7-02DA-439F-9FA7-69978CFC8F5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4339B5C7-02DA-439F-9FA7-69978CFC8F5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4339B5C7-02DA-439F-9FA7-69978CFC8F5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4339B5C7-02DA-439F-9FA7-69978CFC8F5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45BF3EFA-FC5D-4AC4-ADCC-CE1E28399A5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45BF3EFA-FC5D-4AC4-ADCC-CE1E28399A5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45BF3EFA-FC5D-4AC4-ADCC-CE1E28399A5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45BF3EFA-FC5D-4AC4-ADCC-CE1E28399A5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {BBB456C3-79D3-4A21-8D63-E68B7715F1AC}
+		SolutionGuid = {1BD2B945-E29A-4F62-8947-25352FA6E339}
 	EndGlobalSection
 EndGlobal

@@ -1,4 +1,5 @@
-﻿using AzureADTraining.Models;
+﻿
+using AzureADTraining.MVC.Models;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authentication.OpenIdConnect;

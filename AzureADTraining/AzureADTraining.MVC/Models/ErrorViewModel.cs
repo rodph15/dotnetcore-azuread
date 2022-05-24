@@ -1,4 +1,4 @@
-namespace AzureADTraining.Models
+namespace AzureADTraining.MVC.Models
 {
     public class ErrorViewModel
     {
